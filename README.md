@@ -1,2 +1,0 @@
-# DrumBum
-Bootstrap Testing
